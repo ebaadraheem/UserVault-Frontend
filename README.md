@@ -2,5 +2,5 @@
 
 run npm install on terminal
 
-create a .env file
+create a .env.local file
 add VITE_SERVER_URL="Your Server Url"
